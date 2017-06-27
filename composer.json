@@ -2,6 +2,7 @@
     "name": "hxzzy/greet",
     "description": "hello,hello,hello",
     "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "hxzzy",
